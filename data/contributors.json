@@ -1,26 +1,26 @@
 {
-    "75427057": {
-        "name": "Aspw-w",
+    "001": {
+        "name": "As_pw",
         "teamMember": true,
         "contributions": [
             "Main Developer"
         ]
     },
-    "77763580": {
+    "002": {
+        "name": "Zywl",
+        "teamMember": true,
+        "contributions": [
+            "Visual and other stuff"
+        ]
+    },
+    "003": {
         "name": "TheMosKau",
         "teamMember": true,
         "contributions": [
             "Any supports"
         ]
     },
-    "86253343": {
-        "name": "opZywl",
-        "teamMember": true,
-        "contributions": [
-            "Visual and other stuff"
-        ]
-    },
-    "95617427": {
+    "004": {
         "name": "lNuggy",
         "teamMember": true,
         "contributions": [
