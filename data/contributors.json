@@ -3,28 +3,42 @@
         "name": "Aspw-w",
         "teamMember": true,
         "contributions": [
-            "Main Developer"
+            "main developer"
         ]
     },
     "86253343": {
         "name": "opZywl",
         "teamMember": true,
         "contributions": [
-            "Visual and other stuff"
+            "visuals and other stuff"
         ]
     },
     "77763580": {
         "name": "TheMosKau",
         "teamMember": true,
         "contributions": [
-            "Any supports"
+            "bug fixes"
         ]
     },
     "95617427": {
         "name": "lNuggy",
         "teamMember": true,
         "contributions": [
-            "Made a README"
+            "made README.md"
+        ]
+    },
+    "67533379": {
+        "name": "Currypan1229",
+        "teamMember": true,
+        "contributions": [
+            "fixes guava build errors"
+        ]
+    },
+    "65719723": {
+        "name": "LatiBlueLatios",
+        "teamMember": true,
+        "contributions": [
+            "made JumpReset AntiVelocity"
         ]
     }
 }
