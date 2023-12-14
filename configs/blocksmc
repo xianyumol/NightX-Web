@@ -476,9 +476,9 @@ KeepSprint toggle false
 KeepSprint bind NONE
 KillAura Cooldown-Check false
 KillAura Click-Only false
-KillAura MaxCPS 10
+KillAura MaxCPS 11
 KillAura MinCPS 8
-KillAura Rotation-Range 4.36
+KillAura Rotation-Range 4.13
 KillAura Range 3.0
 KillAura RotationMode Undetectable
 KillAura MaxTurnSpeed 57.66
@@ -793,7 +793,7 @@ Speed Vulcan-Mode YPort
 Speed Matrix-Mode Hop
 Speed UseTimer false
 Speed SmoothStrafe true
-Speed StrSpeed 0.42
+Speed StrSpeed 0.47
 Speed MotionY 0.42
 Speed Ground-Boost true
 Speed Boost-Delay 8
@@ -842,7 +842,7 @@ StaffProtection Mode BlocksMC
 StaffProtection Leave true
 StaffProtection toggle true
 StaffProtection bind NONE
-Stealer MaxDelay 6
+Stealer MaxDelay 12
 Stealer MinDelay 6
 Stealer TakeRandomized true
 Stealer OnlyItems false
