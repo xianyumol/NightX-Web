@@ -9,7 +9,7 @@ AimAssist toggle false
 AimAssist bind NONE
 AirJump toggle false
 AirJump bind NONE
-Animals toggle true
+Animals toggle false
 Animals bind NONE
 Annoy YawMove Spin
 Annoy PitchMode Down
@@ -75,9 +75,9 @@ AntiFrozen toggle true
 AntiFrozen bind NONE
 AntiHunger toggle false
 AntiHunger bind NONE
-AntiObsidian toggle true
+AntiObsidian toggle false
 AntiObsidian bind NONE
-AntiSuffocation Mode Legit
+AntiSuffocation Mode GodMode
 AntiSuffocation BreakPosition Normal
 AntiSuffocation Swing Packet
 AntiSuffocation toggle true
@@ -89,7 +89,7 @@ AntiTeams ArmorColor false
 AntiTeams ArmorIndex 3
 AntiTeams toggle false
 AntiTeams bind NONE
-AntiVelocity Mode Cancel
+AntiVelocity Mode YMotion
 AntiVelocity Horizontal 0.0
 AntiVelocity Vertical 0.0
 AntiVelocity Explosion-Mode Cancel
@@ -142,14 +142,10 @@ AutoGapple toggle false
 AutoGapple bind NONE
 AutoHeal AutoPot true
 AutoHeal Health-Pot 50.0
-AutoHeal Delay-Pot 78
 AutoHeal Heal-Pot true
 AutoHeal Utility-Pot true
-AutoHeal Smart-Pot true
-AutoHeal SmartTimeout-Pot 500
 AutoHeal InvSpoof-Pot true
 AutoHeal InvDelay-Pot 500
-AutoHeal NoCombat-Pot true
 AutoHeal Custom-Pitch-Pot false
 AutoHeal Angle-Pot 90.0
 AutoHeal Debug-Pot false
@@ -258,10 +254,8 @@ Disabler Jump false
 Disabler BlockPlacement false
 Disabler Boat false
 Disabler Latest-Verus false
-Disabler Verus-Fly true
 Disabler Verus-Semi false
 Disabler Verus-Combat false
-Disabler Verus-Scaffold true
 Disabler Gwen-Combat false
 Disabler Spartan-Combat false
 Disabler Ping-Spoof false
@@ -276,6 +270,8 @@ Disabler Vulcan-Death false
 Disabler Vulcan-Strafe false
 Disabler Vulcan-Combat false
 Disabler AAC5 false
+Disabler PlaceChecks true
+Disabler AFKChecks false
 Disabler Matrix false
 Disabler Old-Matrix false
 Disabler Old-Watchdog1 false
@@ -375,7 +371,7 @@ FastEat NoMove false
 FastEat CustomDelay 4
 FastEat CustomSpeed 25
 FastEat CustomTimer 1.0
-FastEat toggle true
+FastEat toggle false
 FastEat bind NONE
 FastLadder Mode Vanilla
 FastLadder UpSpeed 0.3
@@ -478,12 +474,13 @@ KillAura Cooldown-Check false
 KillAura Click-Only false
 KillAura MaxCPS 14
 KillAura MinCPS 8
-KillAura Rotation-Range 4.78
-KillAura Range 3.0
+KillAura Target-Range 4.5
+KillAura Attack-Range 3.0
 KillAura RotationMode HvH
 KillAura MaxTurnSpeed 140.63
 KillAura MinTurnSpeed 120.94
 KillAura Angle-Tick 14
+KillAura BypassSomeChecks true
 KillAura NoInvAttack false
 KillAura StopSprint false
 KillAura No-Walls true
@@ -507,7 +504,7 @@ KillAura FOV 180.0
 KillAura FailRate 0.0
 KillAura LimitedMultiTargets 6
 KillAura WaterParticles true
-KillAura Rounded-ESP true
+KillAura ESP true
 KillAura Circle false
 KillAura toggle false
 KillAura bind E
@@ -580,7 +577,7 @@ Manager SortSlot-8 Block
 Manager SortSlot-9 Potion
 Manager toggle false
 Manager bind NONE
-Mobs toggle true
+Mobs toggle false
 Mobs bind NONE
 NoFall Type Packet
 NoFall Edit-Mode Default
@@ -691,7 +688,7 @@ ResetVL bind NONE
 SafeWalk AirSafe false
 SafeWalk toggle false
 SafeWalk bind NONE
-Scaffold EnableTower true
+Scaffold EnableTower false
 Scaffold TowerMove true
 Scaffold TowerMode Float
 Scaffold TowerTimer 1.0
@@ -788,7 +785,7 @@ Speed Kauri-Mode LowHop
 Speed Intave-Mode Hop
 Speed Spectre-Mode BHop
 Speed Other-Mode YPort
-Speed Verus-Mode LowHop
+Speed Verus-Mode Hop
 Speed Vulcan-Mode YPort
 Speed Matrix-Mode Hop
 Speed UseTimer false
