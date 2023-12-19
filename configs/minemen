@@ -7,8 +7,6 @@ AimAssist OnClick false
 AimAssist Jitter false
 AimAssist toggle false
 AimAssist bind NONE
-AirJump toggle false
-AirJump bind NONE
 Animals toggle false
 Animals bind NONE
 Annoy YawMove Spin
@@ -270,7 +268,7 @@ Disabler Vulcan-Death false
 Disabler Vulcan-Strafe false
 Disabler Vulcan-Combat false
 Disabler AAC5 false
-Disabler PlaceChecks false
+Disabler PlaceChecks true
 Disabler AFKChecks false
 Disabler Matrix false
 Disabler Old-Matrix false
@@ -324,7 +322,7 @@ Disabler StrafeDisablerPacketAmount 70
 Disabler Timer1 true
 Disabler Timer2 false
 Disabler Debug false
-Disabler toggle false
+Disabler toggle true
 Disabler bind NONE
 ESP Tags true
 ESP Health-Bar true
@@ -367,7 +365,6 @@ FastBridge Place-Speed 0
 FastBridge toggle false
 FastBridge bind NONE
 FastEat Mode NCP
-FastEat NoMove false
 FastEat CustomDelay 0
 FastEat CustomSpeed 2
 FastEat CustomTimer 1.1
@@ -476,7 +473,7 @@ KillAura MaxCPS 17
 KillAura MinCPS 13
 KillAura Target-Range 4.5
 KillAura Attack-Range 3.0
-KillAura RotationMode Undetectable
+KillAura RotationMode HvH
 KillAura MaxTurnSpeed 120.0
 KillAura MinTurnSpeed 100.0
 KillAura Angle-Tick 5
@@ -484,7 +481,7 @@ KillAura BypassSomeChecks true
 KillAura NoInvAttack false
 KillAura StopSprint false
 KillAura No-Walls true
-KillAura Random true
+KillAura Random false
 KillAura MultiCombo false
 KillAura Multi-Packet 5
 KillAura NoHitCheck false
@@ -780,7 +777,7 @@ SilentSneak bind NONE
 Speed Type Other
 Speed NCP-Mode BHop
 Speed AAC-Mode 4Hop
-Speed Watchdog-Mode OnGround
+Speed Watchdog-Mode Custom
 Speed Kauri-Mode LowHop
 Speed Intave-Mode Hop
 Speed Spectre-Mode BHop

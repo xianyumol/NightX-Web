@@ -7,8 +7,6 @@ AimAssist OnClick false
 AimAssist Jitter false
 AimAssist toggle false
 AimAssist bind NONE
-AirJump toggle false
-AirJump bind NONE
 Animals toggle false
 Animals bind NONE
 Annoy YawMove Spin
@@ -366,8 +364,7 @@ FastBow bind NONE
 FastBridge Place-Speed 0
 FastBridge toggle false
 FastBridge bind NONE
-FastEat Mode CustomDelay
-FastEat NoMove false
+FastEat Mode NCP
 FastEat CustomDelay 0
 FastEat CustomSpeed 25
 FastEat CustomTimer 1.0
