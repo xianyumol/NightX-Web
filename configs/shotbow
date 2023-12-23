@@ -75,7 +75,7 @@ AntiHunger toggle false
 AntiHunger bind NONE
 AntiObsidian toggle false
 AntiObsidian bind NONE
-AntiSuffocation Mode GodMode
+AntiSuffocation Mode Legit
 AntiSuffocation BreakPosition Normal
 AntiSuffocation Swing Packet
 AntiSuffocation toggle true
@@ -907,5 +907,5 @@ WTap bind NONE
 WorldTime Time Static
 WorldTime CycleSpeed 30
 WorldTime StaticTime 18000
-WorldTime toggle false
+WorldTime toggle true
 WorldTime bind NONE

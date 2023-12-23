@@ -164,7 +164,7 @@ AutoRespawn bind NONE
 AutoTool toggle true
 AutoTool bind NONE
 BackTrack MaxCachedPositions 10
-BackTrack toggle false
+BackTrack toggle true
 BackTrack bind NONE
 Blink Pulse true
 Blink C0FCancel false
@@ -470,16 +470,16 @@ KeepSprint toggle false
 KeepSprint bind NONE
 KillAura Cooldown-Check false
 KillAura Click-Only false
-KillAura MaxCPS 17
+KillAura MaxCPS 16
 KillAura MinCPS 9
 KillAura Target-Range 4.5
 KillAura Attack-Range 3.0
 KillAura RotationMode Standard
 KillAura MaxTurnSpeed 120.0
 KillAura MinTurnSpeed 100.0
-KillAura Angle-Tick 12
+KillAura Angle-Tick 1
 KillAura Reset-Delay 0
-KillAura NoInvAttack false
+KillAura NoInvAttack true
 KillAura StopSprint false
 KillAura No-Walls true
 KillAura Random false
@@ -496,7 +496,7 @@ KillAura Criticals false
 KillAura AutoBlock Fake
 KillAura InteractAutoBlock false
 KillAura Protect-Blocking false
-KillAura SilentRotation true
+KillAura SilentRotation false
 KillAura ToggleFreeLook false
 KillAura FOV 180.0
 KillAura FailRate 0.0
