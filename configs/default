@@ -211,6 +211,7 @@ ChestAura Rotations true
 ChestAura toggle false
 ChestAura bind NONE
 CivBreak Mode Instant
+CivBreak Instant-Delay 1
 CivBreak Range 5.0
 CivBreak Rotations true
 CivBreak Swing Packet
@@ -477,7 +478,7 @@ KillAura RotationMode Undetectable
 KillAura MaxTurnSpeed 120.0
 KillAura MinTurnSpeed 100.0
 KillAura Angle-Tick 1
-KillAura BypassSomeChecks true
+KillAura Reset-Delay 0
 KillAura NoInvAttack false
 KillAura StopSprint false
 KillAura No-Walls false
@@ -733,6 +734,7 @@ Scaffold CustomSpeed false
 Scaffold CustomMoveSpeed 0.2
 Scaffold PacketFix1 true
 Scaffold PacketFix2 true
+Scaffold PacketFix3 true
 Scaffold Down true
 Scaffold NoHitCheck false
 Scaffold KeepY false

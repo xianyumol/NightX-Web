@@ -73,7 +73,7 @@ AntiFrozen toggle true
 AntiFrozen bind NONE
 AntiHunger toggle false
 AntiHunger bind NONE
-AntiObsidian toggle true
+AntiObsidian toggle false
 AntiObsidian bind NONE
 AntiSuffocation Mode Legit
 AntiSuffocation BreakPosition Normal
@@ -164,7 +164,7 @@ AutoRespawn bind NONE
 AutoTool toggle true
 AutoTool bind NONE
 BackTrack MaxCachedPositions 10
-BackTrack toggle false
+BackTrack toggle true
 BackTrack bind NONE
 Blink Pulse true
 Blink C0FCancel false
@@ -211,6 +211,7 @@ ChestAura Rotations true
 ChestAura toggle false
 ChestAura bind NONE
 CivBreak Mode Instant
+CivBreak Instant-Delay 1
 CivBreak Range 5.0
 CivBreak Rotations true
 CivBreak Swing Packet
@@ -268,7 +269,7 @@ Disabler Vulcan-Death false
 Disabler Vulcan-Strafe false
 Disabler Vulcan-Combat false
 Disabler AAC5 false
-Disabler PlaceChecks true
+Disabler PlaceChecks false
 Disabler AFKChecks false
 Disabler Matrix false
 Disabler Old-Matrix false
@@ -322,7 +323,7 @@ Disabler StrafeDisablerPacketAmount 70
 Disabler Timer1 true
 Disabler Timer2 false
 Disabler Debug false
-Disabler toggle true
+Disabler toggle false
 Disabler bind NONE
 ESP Tags true
 ESP Health-Bar true
@@ -457,7 +458,7 @@ InfiniteReach bind NONE
 InvMove Mode Vanilla
 InvMove NoDetectable true
 InvMove NoMoveClicks false
-InvMove toggle true
+InvMove toggle false
 InvMove bind NONE
 Invisible toggle false
 Invisible bind NONE
@@ -469,15 +470,15 @@ KeepSprint toggle false
 KeepSprint bind NONE
 KillAura Cooldown-Check false
 KillAura Click-Only false
-KillAura MaxCPS 10
+KillAura MaxCPS 12
 KillAura MinCPS 8
 KillAura Target-Range 4.5
 KillAura Attack-Range 3.0
-KillAura RotationMode HvH
+KillAura RotationMode Standard
 KillAura MaxTurnSpeed 120.0
 KillAura MinTurnSpeed 100.0
-KillAura Angle-Tick 20
-KillAura BypassSomeChecks true
+KillAura Angle-Tick 12
+KillAura Reset-Delay 0
 KillAura NoInvAttack false
 KillAura StopSprint false
 KillAura No-Walls true
@@ -543,8 +544,8 @@ LookTP Mode Vanilla
 LookTP Button Middle
 LookTP toggle false
 LookTP bind NONE
-Manager MaxDelay 54
-Manager MinDelay 31
+Manager MaxDelay 148
+Manager MinDelay 117
 Manager InvOpen true
 Manager SimulateInventory false
 Manager SimulateInventoryDelay 0
@@ -704,7 +705,7 @@ Scaffold TeleportNoMotion false
 Scaffold Mode Normal
 Scaffold SprintMode Same
 Scaffold Place-Condition Always
-Scaffold RotationMode Watchdog
+Scaffold RotationMode Normal
 Scaffold RotationUpMode Normal
 Scaffold StaticPitch 82.0
 Scaffold Custom-Yaw 135.0
@@ -733,6 +734,7 @@ Scaffold CustomSpeed false
 Scaffold CustomMoveSpeed 0.2
 Scaffold PacketFix1 true
 Scaffold PacketFix2 true
+Scaffold PacketFix3 true
 Scaffold Down false
 Scaffold NoHitCheck false
 Scaffold KeepY false
@@ -836,8 +838,8 @@ StaffProtection Mode BlocksMC
 StaffProtection Leave true
 StaffProtection toggle false
 StaffProtection bind NONE
-Stealer MaxDelay 34
-Stealer MinDelay 21
+Stealer MaxDelay 81
+Stealer MinDelay 65
 Stealer TakeRandomized true
 Stealer OnlyItems false
 Stealer NoCompass false
@@ -848,8 +850,8 @@ Stealer AutoClose true
 Stealer SilentMode false
 Stealer Silent-ShowString true
 Stealer Silent-StillDisplay true
-Stealer AutoCloseMaxDelay 196
-Stealer AutoCloseMinDelay 196
+Stealer AutoCloseMaxDelay 225
+Stealer AutoCloseMinDelay 225
 Stealer CloseOnFull true
 Stealer ChestTitle true
 Stealer toggle false

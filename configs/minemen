@@ -211,6 +211,7 @@ ChestAura Rotations true
 ChestAura toggle false
 ChestAura bind NONE
 CivBreak Mode Instant
+CivBreak Instant-Delay 1
 CivBreak Range 5.0
 CivBreak Rotations true
 CivBreak Swing Packet
@@ -322,7 +323,7 @@ Disabler StrafeDisablerPacketAmount 70
 Disabler Timer1 true
 Disabler Timer2 false
 Disabler Debug false
-Disabler toggle true
+Disabler toggle false
 Disabler bind NONE
 ESP Tags true
 ESP Health-Bar true
@@ -470,14 +471,14 @@ KeepSprint bind NONE
 KillAura Cooldown-Check false
 KillAura Click-Only false
 KillAura MaxCPS 17
-KillAura MinCPS 13
+KillAura MinCPS 9
 KillAura Target-Range 4.5
 KillAura Attack-Range 3.0
-KillAura RotationMode HvH
+KillAura RotationMode Standard
 KillAura MaxTurnSpeed 120.0
 KillAura MinTurnSpeed 100.0
-KillAura Angle-Tick 5
-KillAura BypassSomeChecks true
+KillAura Angle-Tick 12
+KillAura Reset-Delay 0
 KillAura NoInvAttack false
 KillAura StopSprint false
 KillAura No-Walls true
@@ -685,7 +686,7 @@ ResetVL bind NONE
 SafeWalk AirSafe false
 SafeWalk toggle false
 SafeWalk bind NONE
-Scaffold EnableTower true
+Scaffold EnableTower false
 Scaffold TowerMove true
 Scaffold TowerMode Float
 Scaffold TowerTimer 1.0
@@ -733,6 +734,7 @@ Scaffold CustomSpeed false
 Scaffold CustomMoveSpeed 0.2
 Scaffold PacketFix1 true
 Scaffold PacketFix2 true
+Scaffold PacketFix3 true
 Scaffold Down false
 Scaffold NoHitCheck false
 Scaffold KeepY false
