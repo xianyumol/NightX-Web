@@ -447,7 +447,7 @@ HighJump bind NONE
 HitBox Size 1.0
 HitBox toggle false
 HitBox bind NONE
-HorseJump toggle true
+HorseJump toggle false
 HorseJump bind NONE
 InfiniteDurability toggle false
 InfiniteDurability bind NONE
@@ -471,10 +471,10 @@ KeepSprint bind NONE
 KillAura Cooldown-Check false
 KillAura Click-Only false
 KillAura MaxCPS 13
-KillAura MinCPS 10
+KillAura MinCPS 9
 KillAura Target-Range 4.5
 KillAura Attack-Range 3.0
-KillAura RotationMode Undetectable
+KillAura RotationMode Standard
 KillAura MaxTurnSpeed 120.0
 KillAura MinTurnSpeed 100.0
 KillAura Angle-Tick 1

@@ -270,7 +270,7 @@ Disabler Vulcan-Strafe false
 Disabler Vulcan-Combat false
 Disabler AAC5 false
 Disabler PlaceChecks true
-Disabler AFKChecks false
+Disabler AFKChecks true
 Disabler Matrix false
 Disabler Old-Matrix false
 Disabler Old-Watchdog1 false
@@ -303,9 +303,9 @@ Disabler LobbyCheck false
 Disabler Verus-Flag true
 Disabler Verus-SilentFlagApply false
 Disabler Verus-QueueActiveSize 445
-Disabler Verus-FlagDelay 48
+Disabler Verus-FlagDelay 47
 Disabler Verus-AntiFlight true
-Disabler Verus-FakeInput false
+Disabler Verus-FakeInput true
 Disabler Verus-ValidPosition true
 Disabler ChestStealer true
 Disabler PlaceBlock true
@@ -385,8 +385,8 @@ FastPlace Speed 0
 FastPlace toggle false
 FastPlace bind NONE
 Flight Mode Motion
-Flight Speed 3.2
-Flight V-Speed 1.64
+Flight Speed 5.0
+Flight V-Speed 2.3
 Flight Y-Motion 0.0
 Flight SpoofGround false
 Flight NCPMotion 0.04
