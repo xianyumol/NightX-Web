@@ -431,7 +431,7 @@ Flight FakeY false
 Flight ViewBobbing false
 Flight BobbingAmount 0.1
 Flight toggle false
-Flight bind F
+Flight bind NONE
 FullBright toggle true
 FullBright bind NONE
 GamePlay Server Hypixel

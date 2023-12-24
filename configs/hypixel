@@ -81,7 +81,7 @@ AntiSuffocation Swing Packet
 AntiSuffocation toggle true
 AntiSuffocation bind NONE
 AntiTeams ScoreboardTeam true
-AntiTeams Color false
+AntiTeams Color true
 AntiTeams GommeSW false
 AntiTeams ArmorColor false
 AntiTeams ArmorIndex 3
@@ -436,7 +436,7 @@ FullBright toggle true
 FullBright bind NONE
 GamePlay Server Hypixel
 GamePlay JoinDelay 3
-GamePlay toggle false
+GamePlay toggle true
 GamePlay bind NONE
 GhostMode toggle false
 GhostMode bind NONE
@@ -455,7 +455,7 @@ InfinitePitch toggle false
 InfinitePitch bind NONE
 InfiniteReach toggle false
 InfiniteReach bind NONE
-InvMove Mode Vanilla
+InvMove Mode Silent
 InvMove NoDetectable true
 InvMove NoMoveClicks false
 InvMove toggle true
@@ -479,13 +479,13 @@ KillAura MaxTurnSpeed 120.0
 KillAura MinTurnSpeed 80.0
 KillAura Angle-Tick 1
 KillAura Reset-Delay 0
-KillAura NoInvAttack true
+KillAura NoInvAttack false
 KillAura StopSprint false
 KillAura No-Walls true
 KillAura Random true
 KillAura MultiCombo false
 KillAura Multi-Packet 5
-KillAura NoHitCheck true
+KillAura NoHitCheck false
 KillAura MovementFix None
 KillAura Priority Distance
 KillAura TargetMode Single
@@ -544,7 +544,7 @@ LookTP Mode Vanilla
 LookTP Button Middle
 LookTP toggle false
 LookTP bind NONE
-Manager MaxDelay 15
+Manager MaxDelay 5
 Manager MinDelay 5
 Manager InvOpen true
 Manager SimulateInventory false
@@ -556,7 +556,7 @@ Manager Sort true
 Manager ThrowGarbage true
 Manager Armor true
 Manager NoCombat false
-Manager ItemDelay 507
+Manager ItemDelay 546
 Manager OnlySwordWeapon false
 Manager NBTGoal NONE
 Manager NBTItemNotGarbage true
@@ -727,9 +727,9 @@ Scaffold Timer 1.0
 Scaffold Place-SlowDown false
 Scaffold Speed-Multiplier 0.8
 Scaffold SlowDown true
-Scaffold XZ-Multiplier 0.94
-Scaffold NoSpeedPot true
-Scaffold SpeedPot-SlowDown 0.84
+Scaffold XZ-Multiplier 0.97
+Scaffold NoSpeedPot false
+Scaffold SpeedPot-SlowDown 0.9
 Scaffold CustomSpeed false
 Scaffold CustomMoveSpeed 0.2
 Scaffold PacketFix1 true

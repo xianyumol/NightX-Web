@@ -35,7 +35,7 @@ AntiBots Color false
 AntiBots LivingTime false
 AntiBots LivingTimeTicks 40
 AntiBots Ground false
-AntiBots Air false
+AntiBots Air true
 AntiBots InvalidGround false
 AntiBots Swing false
 AntiBots Health false
@@ -81,7 +81,7 @@ AntiSuffocation Swing Packet
 AntiSuffocation toggle true
 AntiSuffocation bind NONE
 AntiTeams ScoreboardTeam true
-AntiTeams Color false
+AntiTeams Color true
 AntiTeams GommeSW false
 AntiTeams ArmorColor false
 AntiTeams ArmorIndex 3

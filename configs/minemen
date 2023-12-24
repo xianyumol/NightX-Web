@@ -28,14 +28,14 @@ AntiAFK bind NONE
 AntiBots CzechMatrix false
 AntiBots PingCheck true
 AntiBots GamemodeCheck true
-AntiBots Tab true
+AntiBots Tab false
 AntiBots TabMode Contains
 AntiBots EntityID false
 AntiBots Color false
 AntiBots LivingTime false
 AntiBots LivingTimeTicks 40
 AntiBots Ground false
-AntiBots Air true
+AntiBots Air false
 AntiBots InvalidGround false
 AntiBots Swing false
 AntiBots Health false
@@ -45,7 +45,7 @@ AntiBots MaxHealth 20.0
 AntiBots Derp false
 AntiBots WasInvisible false
 AntiBots Armor false
-AntiBots Ping false
+AntiBots Ping true
 AntiBots NeedHit false
 AntiBots DuplicateInWorld false
 AntiBots ReverseCheck true
@@ -59,7 +59,7 @@ AntiBots AlwaysInRadiusBlocks 20.0
 AntiBots AlwaysInRadiusRemove false
 AntiBots AlwaysInRadiusWithTicksCheck false
 AntiBots Debug false
-AntiBots toggle false
+AntiBots toggle true
 AntiBots bind NONE
 AntiDesync toggle false
 AntiDesync bind NONE
@@ -85,7 +85,7 @@ AntiTeams Color false
 AntiTeams GommeSW false
 AntiTeams ArmorColor false
 AntiTeams ArmorIndex 3
-AntiTeams toggle true
+AntiTeams toggle false
 AntiTeams bind NONE
 AntiVelocity Mode Minemen
 AntiVelocity Horizontal 0.0
@@ -166,11 +166,11 @@ AutoTool bind NONE
 BackTrack MaxCachedPositions 10
 BackTrack toggle true
 BackTrack bind NONE
-Blink Pulse true
-Blink C0FCancel false
+Blink Pulse false
+Blink C0FCancel true
 Blink PulseDelay 400
 Blink toggle false
-Blink bind NONE
+Blink bind F
 BowAura Silent true
 BowAura ThroughWalls false
 BowAura Priority Direction
@@ -223,7 +223,7 @@ CivBreak G 255
 CivBreak B 255
 CivBreak Outline true
 CivBreak toggle false
-CivBreak bind NONE
+CivBreak bind B
 ClientSpoof Mode Vanilla
 ClientSpoof toggle false
 ClientSpoof bind NONE
@@ -460,7 +460,7 @@ InvMove NoDetectable false
 InvMove NoMoveClicks false
 InvMove toggle false
 InvMove bind NONE
-Invisible toggle false
+Invisible toggle true
 Invisible bind NONE
 Jesus Mode NCP
 Jesus Motion 0.5
@@ -496,7 +496,7 @@ KillAura Criticals false
 KillAura AutoBlock Fake
 KillAura InteractAutoBlock false
 KillAura Protect-Blocking false
-KillAura SilentRotation false
+KillAura SilentRotation true
 KillAura ToggleFreeLook false
 KillAura FOV 180.0
 KillAura FailRate 0.0
@@ -686,7 +686,7 @@ ResetVL bind NONE
 SafeWalk AirSafe false
 SafeWalk toggle false
 SafeWalk bind NONE
-Scaffold EnableTower false
+Scaffold EnableTower true
 Scaffold TowerMove true
 Scaffold TowerMode Float
 Scaffold TowerTimer 1.0
@@ -718,7 +718,7 @@ Scaffold Swing Packet
 Scaffold PlaceableDelay false
 Scaffold MaxDelay 50
 Scaffold MinDelay 50
-Scaffold ExtraClicks false
+Scaffold ExtraClicks true
 Scaffold ExtraClick-MaxCPS 7
 Scaffold ExtraClick-MinCPS 3
 Scaffold WatchdogYaw 180
