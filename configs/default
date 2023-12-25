@@ -732,9 +732,6 @@ Scaffold NoSpeedPot false
 Scaffold SpeedPot-SlowDown 0.8
 Scaffold CustomSpeed false
 Scaffold CustomMoveSpeed 0.2
-Scaffold PacketFix1 true
-Scaffold PacketFix2 true
-Scaffold PacketFix3 true
 Scaffold Down true
 Scaffold NoHitCheck false
 Scaffold KeepY false

@@ -63,7 +63,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 21924811,
-        "download_count": 153,
+        "download_count": 370,
         "created_at": "2023-12-23T01:05:28Z",
         "updated_at": "2023-12-23T01:05:32Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B76-Release/nightx-release-b76.jar"
@@ -137,7 +137,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 22181668,
-        "download_count": 475,
+        "download_count": 485,
         "created_at": "2023-12-17T15:39:28Z",
         "updated_at": "2023-12-17T15:39:33Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B75-Release/nightx-release-b75.jar"
@@ -145,7 +145,19 @@
     ],
     "tarball_url": "https://api.github.com/repos/Aspw-w/NightX-Client/tarball/B75-Release",
     "zipball_url": "https://api.github.com/repos/Aspw-w/NightX-Client/zipball/B75-Release",
-    "body": "WATCHDOG IS OK (.config onlineload hypixel)\r\n+ Added New Watchdog Bypasses\r\n+ Added more TargetHud modes\r\n+ Added KillAura Better MovementFix (GrimBypass)\r\n+ Recoded KillAura Range Checks\r\n+ Improved Animations (Slash, Dash)\r\n+ Improved BlocksMC Flight\r\n+ Improved Protocol Selector\r\n+ Improved Fucker MovementFix\r\n+ Improved AutoHeal Item Switch\r\n+ Improved Scaffold Item Switch & MovementFix\r\n+ Fixed Weird TargetHud Health Bar\r\n+ Fixed unable to login if your internet is disconnected\r\n+ Fixed Minemen AntiVelocity not working"
+    "body": "WATCHDOG IS OK (.config onlineload hypixel)\r\n+ Added New Watchdog Bypasses\r\n+ Added more TargetHud modes\r\n+ Added KillAura Better MovementFix (GrimBypass)\r\n+ Recoded KillAura Range Checks\r\n+ Improved Animations (Slash, Dash)\r\n+ Improved BlocksMC Flight\r\n+ Improved Protocol Selector\r\n+ Improved Fucker MovementFix\r\n+ Improved AutoHeal Item Switch\r\n+ Improved Scaffold Item Switch & MovementFix\r\n+ Fixed Weird TargetHud Health Bar\r\n+ Fixed unable to login if your internet is disconnected\r\n+ Fixed Minemen AntiVelocity not working",
+    "reactions": {
+      "url": "https://api.github.com/repos/Aspw-w/NightX-Client/releases/134224333/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
   },
   {
     "url": "https://api.github.com/repos/Aspw-w/NightX-Client/releases/133768756",
@@ -211,7 +223,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 22193253,
-        "download_count": 523,
+        "download_count": 527,
         "created_at": "2023-12-13T15:40:46Z",
         "updated_at": "2023-12-13T15:40:52Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B74-Release/nightx-release-b74.jar"
@@ -1023,7 +1035,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 17622354,
-        "download_count": 1652,
+        "download_count": 1653,
         "created_at": "2023-09-02T08:58:36Z",
         "updated_at": "2023-09-02T08:58:40Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B65-Release/nightx-release-b65.jar"
@@ -1195,7 +1207,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 17567468,
-        "download_count": 623,
+        "download_count": 624,
         "created_at": "2023-08-26T16:17:07Z",
         "updated_at": "2023-08-26T16:17:12Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B63-Release/nightx-release-b63.jar"
@@ -1580,7 +1592,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 15860740,
-        "download_count": 5100,
+        "download_count": 5101,
         "created_at": "2023-04-20T14:02:31Z",
         "updated_at": "2023-04-20T14:02:35Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/Final/nightx-beta-b48.jar"
@@ -1666,7 +1678,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 15863951,
-        "download_count": 827,
+        "download_count": 828,
         "created_at": "2023-04-18T15:05:58Z",
         "updated_at": "2023-04-18T15:06:03Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B48-Beta/nightx-beta-b48.jar"
@@ -1740,7 +1752,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 15805033,
-        "download_count": 926,
+        "download_count": 927,
         "created_at": "2023-04-16T13:43:31Z",
         "updated_at": "2023-04-16T13:43:35Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B47-Release/nightx-release-b47.jar"
@@ -1826,7 +1838,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 15367394,
-        "download_count": 2093,
+        "download_count": 2096,
         "created_at": "2023-04-07T06:07:52Z",
         "updated_at": "2023-04-07T06:08:35Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B46-Release/nightx-release-b46.jar"
@@ -1912,7 +1924,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 15356495,
-        "download_count": 1786,
+        "download_count": 1792,
         "created_at": "2023-04-03T11:08:04Z",
         "updated_at": "2023-04-03T11:08:13Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B46-Beta/nightx-beta-b46.jar"
@@ -2404,7 +2416,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 17955451,
-        "download_count": 293,
+        "download_count": 294,
         "created_at": "2023-03-27T13:16:43Z",
         "updated_at": "2023-03-27T13:17:43Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B43/nightx-release-b43.jar"
