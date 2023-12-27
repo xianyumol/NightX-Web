@@ -198,8 +198,6 @@ Breaker Surroundings false
 Breaker Hypixel false
 Breaker toggle false
 Breaker bind NONE
-CameraNoClip toggle true
-CameraNoClip bind NONE
 ChatFilter toggle false
 ChatFilter bind NONE
 ChestAura Range 4.0
@@ -497,7 +495,6 @@ KillAura AutoBlock 1.9+
 KillAura InteractAutoBlock false
 KillAura Protect-Blocking false
 KillAura SilentRotation true
-KillAura ToggleFreeLook false
 KillAura FOV 180.0
 KillAura FailRate 0.0
 KillAura LimitedMultiTargets 6
@@ -888,6 +885,7 @@ TriggerBot bind NONE
 Tweaks Sneak-Speed 0
 Tweaks toggle false
 Tweaks bind NONE
+VisualAbilities CameraClip true
 VisualAbilities Confusion true
 VisualAbilities Pumpkin true
 VisualAbilities Fire true
