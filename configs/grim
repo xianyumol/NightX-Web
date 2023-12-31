@@ -576,7 +576,6 @@ Manager bind NONE
 Mobs toggle true
 Mobs bind NONE
 MurderDetector Murder-ShowText true
-MurderDetector Murder-ShowTracer true
 MurderDetector Murder-Chat true
 MurderDetector Murder-Notification true
 MurderDetector toggle false
@@ -824,7 +823,7 @@ Speed WorldCheck true
 Speed NoBob false
 Speed FakeY false
 Speed toggle false
-Speed bind X
+Speed bind NONE
 Spider Mode Simple
 Spider ClipMode Jump
 Spider CheckerClimbMotion 0.0

@@ -576,7 +576,6 @@ Manager bind J
 Mobs toggle true
 Mobs bind NONE
 MurderDetector Murder-ShowText true
-MurderDetector Murder-ShowTracer true
 MurderDetector Murder-Chat true
 MurderDetector Murder-Notification true
 MurderDetector toggle false
