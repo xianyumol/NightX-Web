@@ -75,9 +75,9 @@ AntiHunger toggle false
 AntiHunger bind NONE
 AntiObsidian toggle false
 AntiObsidian bind NONE
-AntiSuffocation Mode Legit
+AntiSuffocation Mode GodMode
 AntiSuffocation BreakPosition Normal
-AntiSuffocation Swing Packet
+AntiSuffocation Swing Normal
 AntiSuffocation toggle true
 AntiSuffocation bind NONE
 AntiTeams ScoreboardTeam true
@@ -164,7 +164,7 @@ AutoRespawn bind NONE
 AutoTool toggle true
 AutoTool bind NONE
 BackTrack MaxCachedPositions 10
-BackTrack toggle true
+BackTrack toggle false
 BackTrack bind NONE
 Blink Pulse true
 Blink C0FCancel false
@@ -191,7 +191,7 @@ Breaker ThroughWalls Around
 Breaker Range 5.0
 Breaker Action Destroy
 Breaker Instant false
-Breaker Swing Packet
+Breaker Swing Normal
 Breaker Rotations true
 Breaker MovementFix true
 Breaker Surroundings false
@@ -212,8 +212,7 @@ CivBreak Mode Instant
 CivBreak Instant-Delay 1
 CivBreak Range 5.0
 CivBreak Rotations true
-CivBreak Swing Packet
-CivBreak Air-NoSlow false
+CivBreak Swing Normal
 CivBreak Air-Reset false
 CivBreak Range-Reset false
 CivBreak R 255
@@ -424,6 +423,7 @@ Flight NeruxVace-Ticks 6
 Flight FakeSprinting false
 Flight FakeNoMove false
 Flight LagCheck false
+Flight WorldCheck true
 Flight FakeDamage false
 Flight FakeY false
 Flight ViewBobbing false
@@ -453,9 +453,9 @@ InfinitePitch toggle false
 InfinitePitch bind NONE
 InfiniteReach toggle false
 InfiniteReach bind NONE
-InvMove Mode Silent
+InvMove Mode Vanilla
 InvMove NoDetectable true
-InvMove NoMoveClicks false
+InvMove NoMoveClicks true
 InvMove toggle true
 InvMove bind NONE
 Invisible toggle false
@@ -468,7 +468,7 @@ KeepSprint toggle false
 KeepSprint bind NONE
 KillAura Cooldown-Check false
 KillAura Click-Only false
-KillAura MaxCPS 12
+KillAura MaxCPS 14
 KillAura MinCPS 8
 KillAura Target-Range 4.5
 KillAura Attack-Range 3.0
@@ -477,7 +477,7 @@ KillAura MaxTurnSpeed 120.0
 KillAura MinTurnSpeed 80.0
 KillAura Angle-Tick 1
 KillAura Reset-Delay 0
-KillAura NoInvAttack false
+KillAura NoInvAttack true
 KillAura StopSprint false
 KillAura No-Walls true
 KillAura Random true
@@ -530,6 +530,7 @@ LongJump Pearl-Timer 1.0
 LongJump VerusHigh-TimerBoost false
 LongJump VerusHigh-Height 10.0
 LongJump LagCheck true
+LongJump WorldCheck true
 LongJump AutoDisable true
 LongJump FakeDamage false
 LongJump FakeY false
@@ -541,8 +542,8 @@ LookTP Mode Vanilla
 LookTP Button Middle
 LookTP toggle false
 LookTP bind NONE
-Manager MaxDelay 5
-Manager MinDelay 5
+Manager MaxDelay 100
+Manager MinDelay 60
 Manager InvOpen true
 Manager SimulateInventory false
 Manager SimulateInventoryDelay 0
@@ -553,7 +554,7 @@ Manager Sort true
 Manager ThrowGarbage true
 Manager Armor true
 Manager NoCombat false
-Manager ItemDelay 546
+Manager ItemDelay 200
 Manager OnlySwordWeapon false
 Manager NBTGoal NONE
 Manager NBTItemNotGarbage true
@@ -574,6 +575,12 @@ Manager toggle false
 Manager bind J
 Mobs toggle false
 Mobs bind NONE
+MurderDetector Murder-ShowText true
+MurderDetector Murder-ShowTracer true
+MurderDetector Murder-Chat true
+MurderDetector Murder-Notification true
+MurderDetector toggle false
+MurderDetector bind NONE
 NoFall Type Packet
 NoFall Edit-Mode Default
 NoFall Packet-Mode Default
@@ -711,11 +718,11 @@ Scaffold Spin-Speed 5.0
 Scaffold Spin-Pitch 90.0
 Scaffold KeepRotation-OnJump true
 Scaffold WaitRotationMode Normal
-Scaffold Swing Packet
+Scaffold Swing Normal
 Scaffold PlaceableDelay false
 Scaffold MaxDelay 50
 Scaffold MinDelay 50
-Scaffold ExtraClicks true
+Scaffold ExtraClicks false
 Scaffold ExtraClick-MaxCPS 7
 Scaffold ExtraClick-MinCPS 3
 Scaffold WatchdogYaw 180
@@ -725,7 +732,7 @@ Scaffold Place-SlowDown false
 Scaffold Speed-Multiplier 0.8
 Scaffold SlowDown true
 Scaffold XZ-Multiplier 0.98
-Scaffold NoSpeedPot false
+Scaffold NoSpeedPot true
 Scaffold SpeedPot-SlowDown 0.9
 Scaffold CustomSpeed false
 Scaffold CustomMoveSpeed 0.2
@@ -813,6 +820,7 @@ Speed AACGround-Timer 3.0
 Speed Hop-Speed 0.9
 Speed CubeCraft-PortLength 1.0
 Speed LagCheck true
+Speed WorldCheck true
 Speed NoBob false
 Speed FakeY false
 Speed toggle false
@@ -874,7 +882,8 @@ TargetStrafe toggle false
 TargetStrafe bind NONE
 Timer Speed 2.0
 Timer OnMove false
-Timer AutoDisable false
+Timer LagCheck false
+Timer WorldCheck true
 Timer toggle false
 Timer bind NONE
 TriggerBot Cooldown-Check false

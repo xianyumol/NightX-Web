@@ -77,7 +77,7 @@ AntiObsidian toggle false
 AntiObsidian bind NONE
 AntiSuffocation Mode Teleport
 AntiSuffocation BreakPosition Normal
-AntiSuffocation Swing Packet
+AntiSuffocation Swing Normal
 AntiSuffocation toggle true
 AntiSuffocation bind NONE
 AntiTeams ScoreboardTeam true
@@ -191,7 +191,7 @@ Breaker ThroughWalls Around
 Breaker Range 5.0
 Breaker Action Destroy
 Breaker Instant false
-Breaker Swing Packet
+Breaker Swing Normal
 Breaker Rotations true
 Breaker MovementFix true
 Breaker Surroundings false
@@ -212,8 +212,7 @@ CivBreak Mode Instant
 CivBreak Instant-Delay 1
 CivBreak Range 5.0
 CivBreak Rotations true
-CivBreak Swing Packet
-CivBreak Air-NoSlow false
+CivBreak Swing Normal
 CivBreak Air-Reset false
 CivBreak Range-Reset false
 CivBreak R 255
@@ -424,6 +423,7 @@ Flight NeruxVace-Ticks 6
 Flight FakeSprinting false
 Flight FakeNoMove false
 Flight LagCheck false
+Flight WorldCheck true
 Flight FakeDamage false
 Flight FakeY false
 Flight ViewBobbing false
@@ -530,6 +530,7 @@ LongJump Pearl-Timer 1.0
 LongJump VerusHigh-TimerBoost false
 LongJump VerusHigh-Height 10.0
 LongJump LagCheck true
+LongJump WorldCheck true
 LongJump AutoDisable true
 LongJump FakeDamage false
 LongJump FakeY false
@@ -574,6 +575,12 @@ Manager toggle false
 Manager bind NONE
 Mobs toggle false
 Mobs bind NONE
+MurderDetector Murder-ShowText true
+MurderDetector Murder-ShowTracer true
+MurderDetector Murder-Chat true
+MurderDetector Murder-Notification true
+MurderDetector toggle false
+MurderDetector bind NONE
 NoFall Type Packet
 NoFall Edit-Mode Default
 NoFall Packet-Mode Default
@@ -711,7 +718,7 @@ Scaffold Spin-Speed 5.0
 Scaffold Spin-Pitch 90.0
 Scaffold KeepRotation-OnJump true
 Scaffold WaitRotationMode Normal
-Scaffold Swing Packet
+Scaffold Swing Normal
 Scaffold PlaceableDelay false
 Scaffold MaxDelay 50
 Scaffold MinDelay 50
@@ -813,6 +820,7 @@ Speed AACGround-Timer 3.0
 Speed Hop-Speed 1.25
 Speed CubeCraft-PortLength 1.0
 Speed LagCheck true
+Speed WorldCheck true
 Speed NoBob false
 Speed FakeY false
 Speed toggle false
@@ -874,7 +882,8 @@ TargetStrafe toggle true
 TargetStrafe bind NONE
 Timer Speed 2.0
 Timer OnMove false
-Timer AutoDisable false
+Timer LagCheck false
+Timer WorldCheck true
 Timer toggle false
 Timer bind NONE
 TriggerBot Cooldown-Check false
