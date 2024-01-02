@@ -63,7 +63,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 21316306,
-        "download_count": 163,
+        "download_count": 257,
         "created_at": "2023-12-31T14:56:13Z",
         "updated_at": "2023-12-31T14:56:17Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B78-Release/nightx-release-b78.jar"
@@ -71,7 +71,19 @@
     ],
     "tarball_url": "https://api.github.com/repos/Aspw-w/NightX-Client/tarball/B78-Release",
     "zipball_url": "https://api.github.com/repos/Aspw-w/NightX-Client/zipball/B78-Release",
-    "body": "Happy New Year!\r\n+ Added DiscordRPC Module\r\n+ Added MurderDetector Module\r\n+ Added HeldBlockESP Module\r\n+ Added FreeLook ThirdPerson, Reverse Option\r\n+ Added Some modules LagCheck, WorldCheck Option\r\n+ Added ClickGui Blur Option\r\n+ Added Custom Loading Screen\r\n+ Added LoginScreen Exit Button\r\n+ Updated Protocol\r\n+ Removed CameraNoClip Module (Mixed to VisualAbilities Module)\r\n+ Improved MainMenu Gui\r\n+ Improved Blur Performance\r\n+ Improved Performance\r\n+ Fixed ESP Module shows fake names\r\n+ Fixed LookTP FPS Drop\r\n+ Fixed FPS Drop when Using High Resolution Textures\r\n+ Fixed AutoHeal sometimes not working\r\n+ Fixed Speed Module not able to fly in creative mode\r\n+ Fixed Strafe Input Delay\r\n+ Fixed WatchdogGround Speed AutoBan\r\n+ Fixed CivBreak Legit mode not LEGIT\r\n+ Fixed Flight Disable Event (Hypixel Spectator mode)\r\n+ Fixed MemoryLeaks and GPU Usage"
+    "body": "Happy New Year!\r\n+ Added DiscordRPC Module\r\n+ Added MurderDetector Module\r\n+ Added HeldBlockESP Module\r\n+ Added FreeLook ThirdPerson, Reverse Option\r\n+ Added Some modules LagCheck, WorldCheck Option\r\n+ Added ClickGui Blur Option\r\n+ Added Custom Loading Screen\r\n+ Added LoginScreen Exit Button\r\n+ Updated Protocol\r\n+ Removed CameraNoClip Module (Mixed to VisualAbilities Module)\r\n+ Improved MainMenu Gui\r\n+ Improved Blur Performance\r\n+ Improved Performance\r\n+ Fixed ESP Module shows fake names\r\n+ Fixed LookTP FPS Drop\r\n+ Fixed FPS Drop when Using High Resolution Textures\r\n+ Fixed AutoHeal sometimes not working\r\n+ Fixed Speed Module not able to fly in creative mode\r\n+ Fixed Strafe Input Delay\r\n+ Fixed WatchdogGround Speed AutoBan\r\n+ Fixed CivBreak Legit mode not LEGIT\r\n+ Fixed Flight Disable Event (Hypixel Spectator mode)\r\n+ Fixed MemoryLeaks and GPU Usage",
+    "reactions": {
+      "url": "https://api.github.com/repos/Aspw-w/NightX-Client/releases/135438479/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
   },
   {
     "url": "https://api.github.com/repos/Aspw-w/NightX-Client/releases/135055935",
@@ -137,7 +149,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 21924601,
-        "download_count": 803,
+        "download_count": 806,
         "created_at": "2023-12-25T14:50:56Z",
         "updated_at": "2023-12-25T14:51:01Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B77-Release/nightx-release-b77.jar"
@@ -212,7 +224,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 21924811,
-        "download_count": 397,
+        "download_count": 400,
         "created_at": "2023-12-23T01:05:28Z",
         "updated_at": "2023-12-23T01:05:32Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B76-Release/nightx-release-b76.jar"
@@ -1901,7 +1913,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 15805033,
-        "download_count": 930,
+        "download_count": 931,
         "created_at": "2023-04-16T13:43:31Z",
         "updated_at": "2023-04-16T13:43:35Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B47-Release/nightx-release-b47.jar"
@@ -2073,7 +2085,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 15356495,
-        "download_count": 1825,
+        "download_count": 1832,
         "created_at": "2023-04-03T11:08:04Z",
         "updated_at": "2023-04-03T11:08:13Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B46-Beta/nightx-beta-b46.jar"
