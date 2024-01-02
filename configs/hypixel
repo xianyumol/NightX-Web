@@ -449,8 +449,6 @@ HorseJump toggle false
 HorseJump bind NONE
 InfiniteDurability toggle false
 InfiniteDurability bind NONE
-InfinitePitch toggle false
-InfinitePitch bind NONE
 InfiniteReach toggle false
 InfiniteReach bind NONE
 InvMove Mode Vanilla
@@ -468,7 +466,7 @@ KeepSprint toggle false
 KeepSprint bind NONE
 KillAura Cooldown-Check false
 KillAura Click-Only false
-KillAura MaxCPS 13
+KillAura MaxCPS 12
 KillAura MinCPS 8
 KillAura Target-Range 4.5
 KillAura Attack-Range 3.0
@@ -542,8 +540,8 @@ LookTP Mode Vanilla
 LookTP Button Middle
 LookTP toggle false
 LookTP bind NONE
-Manager MaxDelay 90
-Manager MinDelay 60
+Manager MaxDelay 80
+Manager MinDelay 30
 Manager InvOpen true
 Manager SimulateInventory false
 Manager SimulateInventoryDelay 0
@@ -575,9 +573,9 @@ Manager toggle false
 Manager bind J
 Mobs toggle false
 Mobs bind NONE
-MurderDetector Murder-ShowText true
-MurderDetector Murder-Chat true
-MurderDetector Murder-Notification true
+MurderDetector ShowText true
+MurderDetector Chat true
+MurderDetector Notification true
 MurderDetector toggle false
 MurderDetector bind NONE
 NoFall Type Packet
@@ -693,6 +691,7 @@ Scaffold EnableTower true
 Scaffold TowerMove true
 Scaffold TowerMode Watchdog
 Scaffold TowerTimer 1.0
+Scaffold WatchdogTowerBoost true
 Scaffold JumpMotion 0.42
 Scaffold JumpDelay 0
 Scaffold StableMotion 0.41982
@@ -846,7 +845,7 @@ Stealer OnlyItems false
 Stealer NoCompass false
 Stealer NoDuplicateNonStackable false
 Stealer Instant true
-Stealer StopMotion false
+Stealer StopMotion true
 Stealer AutoClose true
 Stealer SilentMode true
 Stealer Silent-ShowString false
