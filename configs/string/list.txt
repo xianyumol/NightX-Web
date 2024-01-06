@@ -1,1 +1,1 @@
-2b2tjp, aac, anarchy, blocksmc, coldpvp, coldpvpanarchy, default, dynamicpvp, ghost, herobrine, hypixel, hypixelmurder, lunaria, lunarianoac, minemen, noac, oncp, purpleprison, shotbow, sololegends
+2b2tjp, aac, anarchy, blocksmc, coldpvp, coldpvpanarchy, default, ghost, herobrine, hypixel, hypixelmurder, lunaria, lunarianoac, minemen, noac, oncp, purpleprison, pvpland, shotbow-1.20.4, sololegends, speedcubing, vulcan
