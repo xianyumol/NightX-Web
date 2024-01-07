@@ -241,6 +241,7 @@ Disabler Basic false
 Disabler Vanilla-Desync false
 Disabler Silent-Accept false
 Disabler ShotBow false
+Disabler Watchdog-Flag true
 Disabler Funcraft-Staff false
 Disabler BlockDrop false
 Disabler Grim false
@@ -319,8 +320,8 @@ Disabler StrafeDisabler true
 Disabler StrafeDisablerPacketAmount 70
 Disabler Timer1 true
 Disabler Timer2 false
-Disabler Debug false
-Disabler toggle false
+Disabler Debug true
+Disabler toggle true
 Disabler bind NONE
 ESP Tags true
 ESP Health-Bar true
@@ -454,7 +455,6 @@ InfiniteReach toggle false
 InfiniteReach bind NONE
 InvMove Mode Vanilla
 InvMove NoDetectable true
-InvMove NoMoveClicks true
 InvMove toggle true
 InvMove bind NONE
 Invisible toggle false

@@ -241,6 +241,7 @@ Disabler Basic false
 Disabler Vanilla-Desync false
 Disabler Silent-Accept false
 Disabler ShotBow false
+Disabler Watchdog-Flag false
 Disabler Funcraft-Staff false
 Disabler BlockDrop false
 Disabler Grim false
@@ -454,7 +455,6 @@ InfiniteReach toggle false
 InfiniteReach bind NONE
 InvMove Mode Silent
 InvMove NoDetectable false
-InvMove NoMoveClicks false
 InvMove toggle true
 InvMove bind NONE
 Invisible toggle false
