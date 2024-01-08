@@ -490,7 +490,7 @@ KillAura Swing Full
 KillAura Particle Vanilla
 KillAura Sharpness true
 KillAura Criticals false
-KillAura AutoBlock Hypixel
+KillAura AutoBlock Fake
 KillAura ReBlock-Delay 10
 KillAura InteractAutoBlock true
 KillAura SilentRotation true
