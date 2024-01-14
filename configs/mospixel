@@ -364,7 +364,7 @@ FastLadder UpSpeed 0.1
 FastLadder DownSpeed 0.1
 FastLadder Timer 1.6
 FastLadder SpartanTimerBoost true
-FastLadder toggle true
+FastLadder toggle false
 FastLadder bind NONE
 FastMine Speed 1.5
 FastMine toggle false
