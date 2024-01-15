@@ -74,7 +74,7 @@ AntiFrozen bind NONE
 AntiSuffocation Mode Legit
 AntiSuffocation BreakPosition Normal
 AntiSuffocation Swing Normal
-AntiSuffocation toggle true
+AntiSuffocation toggle false
 AntiSuffocation bind NONE
 AntiTeams ScoreboardTeam true
 AntiTeams Color false
@@ -372,7 +372,7 @@ FastMine bind NONE
 FastPlace Speed 0
 FastPlace toggle false
 FastPlace bind NONE
-Flight Mode Mospixel
+Flight Mode Zoom
 Flight Speed 1.0
 Flight V-Speed 0.6
 Flight Y-Motion 0.0
@@ -477,7 +477,7 @@ KillAura Swing Full
 KillAura Particle Vanilla
 KillAura Sharpness true
 KillAura Criticals false
-KillAura AutoBlock ReBlock
+KillAura AutoBlock Verus
 KillAura ReBlock-Delay 10
 KillAura InteractAutoBlock true
 KillAura SilentRotation true
@@ -701,7 +701,7 @@ Scaffold Down true
 Scaffold NoHitCheck true
 Scaffold AutoJump false
 Scaffold SpeedKeepY true
-Scaffold SafeWalk true
+Scaffold SafeWalk false
 Scaffold AirSafe false
 Scaffold AutoDisable-Speed false
 Scaffold Desync false
