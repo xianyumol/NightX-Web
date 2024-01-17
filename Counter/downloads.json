@@ -1,5 +1,91 @@
 [
   {
+    "url": "https://api.github.com/repos/Aspw-w/NightX-Client/releases/136962329",
+    "assets_url": "https://api.github.com/repos/Aspw-w/NightX-Client/releases/136962329/assets",
+    "upload_url": "https://uploads.github.com/repos/Aspw-w/NightX-Client/releases/136962329/assets{?name,label}",
+    "html_url": "https://github.com/Aspw-w/NightX-Client/releases/tag/B81-Release-Hotfix",
+    "id": 136962329,
+    "author": {
+      "login": "Aspw-w",
+      "id": 75427057,
+      "node_id": "MDQ6VXNlcjc1NDI3MDU3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75427057?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Aspw-w",
+      "html_url": "https://github.com/Aspw-w",
+      "followers_url": "https://api.github.com/users/Aspw-w/followers",
+      "following_url": "https://api.github.com/users/Aspw-w/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Aspw-w/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Aspw-w/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Aspw-w/subscriptions",
+      "organizations_url": "https://api.github.com/users/Aspw-w/orgs",
+      "repos_url": "https://api.github.com/users/Aspw-w/repos",
+      "events_url": "https://api.github.com/users/Aspw-w/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Aspw-w/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "node_id": "RE_kwDOIG0dIs4IKeEZ",
+    "tag_name": "B81-Release-Hotfix",
+    "target_commitish": "master",
+    "name": "B81 Release Hotfix",
+    "draft": false,
+    "prerelease": false,
+    "created_at": "2024-01-14T00:22:27Z",
+    "published_at": "2024-01-14T00:23:04Z",
+    "assets": [
+      {
+        "url": "https://api.github.com/repos/Aspw-w/NightX-Client/releases/assets/145465831",
+        "id": 145465831,
+        "node_id": "RA_kwDOIG0dIs4Iq6Hn",
+        "name": "nightx-release-b81-hotfix.jar",
+        "label": null,
+        "uploader": {
+          "login": "Aspw-w",
+          "id": 75427057,
+          "node_id": "MDQ6VXNlcjc1NDI3MDU3",
+          "avatar_url": "https://avatars.githubusercontent.com/u/75427057?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Aspw-w",
+          "html_url": "https://github.com/Aspw-w",
+          "followers_url": "https://api.github.com/users/Aspw-w/followers",
+          "following_url": "https://api.github.com/users/Aspw-w/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Aspw-w/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Aspw-w/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Aspw-w/subscriptions",
+          "organizations_url": "https://api.github.com/users/Aspw-w/orgs",
+          "repos_url": "https://api.github.com/users/Aspw-w/repos",
+          "events_url": "https://api.github.com/users/Aspw-w/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Aspw-w/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "content_type": "application/java-archive",
+        "state": "uploaded",
+        "size": 21214579,
+        "download_count": 539,
+        "created_at": "2024-01-14T00:22:57Z",
+        "updated_at": "2024-01-14T00:23:02Z",
+        "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B81-Release-Hotfix/nightx-release-b81-hotfix.jar"
+      }
+    ],
+    "tarball_url": "https://api.github.com/repos/Aspw-w/NightX-Client/tarball/B81-Release-Hotfix",
+    "zipball_url": "https://api.github.com/repos/Aspw-w/NightX-Client/zipball/B81-Release-Hotfix",
+    "body": "+ fixed every protocol not working",
+    "reactions": {
+      "url": "https://api.github.com/repos/Aspw-w/NightX-Client/releases/136962329/reactions",
+      "total_count": 2,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 2,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  },
+  {
     "url": "https://api.github.com/repos/Aspw-w/NightX-Client/releases/136944565",
     "assets_url": "https://api.github.com/repos/Aspw-w/NightX-Client/releases/136944565/assets",
     "upload_url": "https://uploads.github.com/repos/Aspw-w/NightX-Client/releases/136944565/assets{?name,label}",
@@ -63,7 +149,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 21216857,
-        "download_count": 139,
+        "download_count": 166,
         "created_at": "2024-01-13T14:32:15Z",
         "updated_at": "2024-01-13T14:32:19Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B81-Release/nightx-release-b81.jar"
@@ -137,7 +223,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 21376238,
-        "download_count": 790,
+        "download_count": 800,
         "created_at": "2024-01-07T16:22:28Z",
         "updated_at": "2024-01-07T16:22:44Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B80-Release/nightx-release-b80.jar"
@@ -223,7 +309,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 21375740,
-        "download_count": 230,
+        "download_count": 232,
         "created_at": "2024-01-06T17:32:54Z",
         "updated_at": "2024-01-06T17:33:20Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B79-Release/nightx-release-b79.jar"
@@ -383,7 +469,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 21924601,
-        "download_count": 826,
+        "download_count": 829,
         "created_at": "2023-12-25T14:50:56Z",
         "updated_at": "2023-12-25T14:51:01Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B77-Release/nightx-release-b77.jar"
@@ -458,7 +544,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 21924811,
-        "download_count": 406,
+        "download_count": 407,
         "created_at": "2023-12-23T01:05:28Z",
         "updated_at": "2023-12-23T01:05:32Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B76-Release/nightx-release-b76.jar"
@@ -532,7 +618,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 22181668,
-        "download_count": 544,
+        "download_count": 548,
         "created_at": "2023-12-17T15:39:28Z",
         "updated_at": "2023-12-17T15:39:33Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B75-Release/nightx-release-b75.jar"
@@ -618,7 +704,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 22193253,
-        "download_count": 531,
+        "download_count": 533,
         "created_at": "2023-12-13T15:40:46Z",
         "updated_at": "2023-12-13T15:40:52Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B74-Release/nightx-release-b74.jar"
@@ -704,7 +790,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 19734259,
-        "download_count": 2301,
+        "download_count": 2302,
         "created_at": "2023-11-12T14:50:15Z",
         "updated_at": "2023-11-12T14:51:03Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B73-Release-Patch1/nightx-release-b73-patch1.jar"
@@ -790,7 +876,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 19979777,
-        "download_count": 160,
+        "download_count": 162,
         "created_at": "2023-11-12T13:09:34Z",
         "updated_at": "2023-11-12T13:09:39Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B73-Release/nightx-release-b73.jar"
@@ -950,7 +1036,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 16956820,
-        "download_count": 43,
+        "download_count": 45,
         "created_at": "2023-10-30T14:43:54Z",
         "updated_at": "2023-10-30T14:43:58Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B71-Release/nightx-release-b71.jar"
@@ -1110,7 +1196,7 @@
         "content_type": "application/java-archive",
         "state": "uploaded",
         "size": 17832765,
-        "download_count": 1996,
+        "download_count": 2000,
         "created_at": "2023-09-30T15:27:18Z",
         "updated_at": "2023-09-30T15:27:29Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B69-Release/nightx-release-b69.jar"
@@ -1430,7 +1516,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 17622354,
-        "download_count": 1654,
+        "download_count": 1655,
         "created_at": "2023-09-02T08:58:36Z",
         "updated_at": "2023-09-02T08:58:40Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B65-Release/nightx-release-b65.jar"
@@ -1602,7 +1688,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 17567468,
-        "download_count": 628,
+        "download_count": 631,
         "created_at": "2023-08-26T16:17:07Z",
         "updated_at": "2023-08-26T16:17:12Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B63-Release/nightx-release-b63.jar"
@@ -1860,7 +1946,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 16044424,
-        "download_count": 116,
+        "download_count": 118,
         "created_at": "2023-08-17T10:03:45Z",
         "updated_at": "2023-08-17T10:04:05Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B61-Release/nightx-release-b61.jar"
@@ -1987,7 +2073,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 15860740,
-        "download_count": 5117,
+        "download_count": 5118,
         "created_at": "2023-04-20T14:02:31Z",
         "updated_at": "2023-04-20T14:02:35Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/Final/nightx-beta-b48.jar"
@@ -2073,7 +2159,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 15863951,
-        "download_count": 834,
+        "download_count": 835,
         "created_at": "2023-04-18T15:05:58Z",
         "updated_at": "2023-04-18T15:06:03Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B48-Beta/nightx-beta-b48.jar"
@@ -2147,7 +2233,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 15805033,
-        "download_count": 945,
+        "download_count": 948,
         "created_at": "2023-04-16T13:43:31Z",
         "updated_at": "2023-04-16T13:43:35Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B47-Release/nightx-release-b47.jar"
@@ -2233,7 +2319,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 15367394,
-        "download_count": 2102,
+        "download_count": 2109,
         "created_at": "2023-04-07T06:07:52Z",
         "updated_at": "2023-04-07T06:08:35Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B46-Release/nightx-release-b46.jar"
@@ -2319,7 +2405,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 15356495,
-        "download_count": 1886,
+        "download_count": 1903,
         "created_at": "2023-04-03T11:08:04Z",
         "updated_at": "2023-04-03T11:08:13Z",
         "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B46-Beta/nightx-beta-b46.jar"
@@ -2340,79 +2426,5 @@
       "rocket": 0,
       "eyes": 0
     }
-  },
-  {
-    "url": "https://api.github.com/repos/Aspw-w/NightX-Client/releases/97760894",
-    "assets_url": "https://api.github.com/repos/Aspw-w/NightX-Client/releases/97760894/assets",
-    "upload_url": "https://uploads.github.com/repos/Aspw-w/NightX-Client/releases/97760894/assets{?name,label}",
-    "html_url": "https://github.com/Aspw-w/NightX-Client/releases/tag/B45-Release",
-    "id": 97760894,
-    "author": {
-      "login": "Aspw-w",
-      "id": 75427057,
-      "node_id": "MDQ6VXNlcjc1NDI3MDU3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/75427057?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/Aspw-w",
-      "html_url": "https://github.com/Aspw-w",
-      "followers_url": "https://api.github.com/users/Aspw-w/followers",
-      "following_url": "https://api.github.com/users/Aspw-w/following{/other_user}",
-      "gists_url": "https://api.github.com/users/Aspw-w/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/Aspw-w/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/Aspw-w/subscriptions",
-      "organizations_url": "https://api.github.com/users/Aspw-w/orgs",
-      "repos_url": "https://api.github.com/users/Aspw-w/repos",
-      "events_url": "https://api.github.com/users/Aspw-w/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/Aspw-w/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "node_id": "RE_kwDOIG0dIs4F07Z-",
-    "tag_name": "B45-Release",
-    "target_commitish": "master",
-    "name": "B45-Release",
-    "draft": false,
-    "prerelease": false,
-    "created_at": "2023-03-25T10:01:04Z",
-    "published_at": "2023-04-02T10:41:15Z",
-    "assets": [
-      {
-        "url": "https://api.github.com/repos/Aspw-w/NightX-Client/releases/assets/102091179",
-        "id": 102091179,
-        "node_id": "RA_kwDOIG0dIs4GFcmr",
-        "name": "nightx-release-b45.jar",
-        "label": null,
-        "uploader": {
-          "login": "Aspw-w",
-          "id": 75427057,
-          "node_id": "MDQ6VXNlcjc1NDI3MDU3",
-          "avatar_url": "https://avatars.githubusercontent.com/u/75427057?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/Aspw-w",
-          "html_url": "https://github.com/Aspw-w",
-          "followers_url": "https://api.github.com/users/Aspw-w/followers",
-          "following_url": "https://api.github.com/users/Aspw-w/following{/other_user}",
-          "gists_url": "https://api.github.com/users/Aspw-w/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/Aspw-w/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/Aspw-w/subscriptions",
-          "organizations_url": "https://api.github.com/users/Aspw-w/orgs",
-          "repos_url": "https://api.github.com/users/Aspw-w/repos",
-          "events_url": "https://api.github.com/users/Aspw-w/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/Aspw-w/received_events",
-          "type": "User",
-          "site_admin": false
-        },
-        "content_type": "application/octet-stream",
-        "state": "uploaded",
-        "size": 15374716,
-        "download_count": 187,
-        "created_at": "2023-04-03T08:19:10Z",
-        "updated_at": "2023-04-03T08:20:09Z",
-        "browser_download_url": "https://github.com/Aspw-w/NightX-Client/releases/download/B45-Release/nightx-release-b45.jar"
-      }
-    ],
-    "tarball_url": "https://api.github.com/repos/Aspw-w/NightX-Client/tarball/B45-Release",
-    "zipball_url": "https://api.github.com/repos/Aspw-w/NightX-Client/zipball/B45-Release",
-    "body": "- Added CivBreak Mode option (Instant, Legit)\r\n- Added Scaffold Tower mode Watchdog (only moving)\r\n- Added Tickbase Module (Thanks Wevez!)\r\n- Added BedWalker Module\r\n- Added KillAura Angle-Tick option (bypass most anticheats)\r\n- Added Criticals mode NewNCP\r\n- Added .config download Command\r\n- Added Disabler mode Payload, Inventory-Spoof\r\n- Added Crasher mode FAWE\r\n- Added Animations mode Dortware, DortwarePush, Double1, Double2\r\n- Added Scaffold PlaceTiming mode Tick (bypassing watchdog sprint scaffold XD)\r\n- Removed Velocity mode Minemen (doesn't bypass)\r\n- Improved MainMenu, Multiplayer, Disconnected Screen\r\n- Improved Animations mode Jigsaw, Sigma3, Avatar (Equip-Modify support)\r\n- Improved Animations Module\r\n- Improved AntiStaff Module\r\n- Improved Tickbase Module\r\n- Improved Chat anything\r\n- Improved SilentView\r\n- Improved Protocol Switcher\r\n- Improved Inventory Module\r\n- Improved Config System\r\n- Improved Scaffold XZ-Multiplier, blockplace packet, performance\r\n- Improved SilentView when swing hand\r\n- Improved KillAura (good at HvH?)\r\n- Improved Creative Inventory Performance\r\n- Fixed ClientSpoof mode Lunar not working and Recoded (Thanks Zywl!)\r\n- Fixed Crasher mode Rotation not working\r\n- Fixed B44's shit codes\r\n- Fixed Watchdog AutoBlock Bypasses\r\n- Fixed WatchdogNew Speed Bypasses\r\n- Fixed Animations Swing-Speed option effects every players\r\n- Fixed Sending weird packets (when hitting people) (no more autobanning on minemen)\r\n- Fixed Scaffold NullPointerException\r\n- Fixed KillAura packet flags\r\n- Fixed Reconnect with Alt button not working\r\n- Fixed Performance and OpenGL errors\r\n- Renamed Flight mode PurplePrison -> VulcanGlide\r\n- Renamed NoSlow mode WatchdogSword -> LatestWatchdog\r\n- Renamed Fucker -> BedBreaker\r\nUpdated Configs\r\n\r\n04/03 9:20 Semi-Updated\r\n- Added Sprint Rotations option\r\n- Fixed WatchdogNew Speed Bypasses\r\n- Fixed Watchdog AutoBlock Bypasses\r\n\r\n04/03 5:20 Semi-Updated (xd?)\r\n- Fixed Watchdog AutoBlock Bypasses\r\n- Fixed WatchdogNew Speed not working"
   }
 ]
